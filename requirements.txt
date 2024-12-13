@@ -1,0 +1,8 @@
+openai
+transformers
+web3
+pandas
+numpy
+docker
+kubernetes
+pytest
