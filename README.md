@@ -17,10 +17,10 @@ This project involves the creation of a **Crypto-Related AI Bot**. It serves as 
 ---
 
 ## Assets
-### Project Logo
+### 
 ![Project Logo](NEW%20LOGO.png)
 
-### Twitter Header
+### 
 ![Twitter Header](TWITTER%20HEADER%20NEWEST%20SOLANA.png)
 
 ---
