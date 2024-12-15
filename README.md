@@ -1,6 +1,6 @@
 # Project Title: Crypto AI Bot
 
-![Project Logo](#5cfdf0.png)
+![Project Logo](5cfdf0.png)
 
 ---
 
