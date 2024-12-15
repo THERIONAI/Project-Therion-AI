@@ -77,6 +77,9 @@ This project is licensed under the **MIT License**. See `LICENSE` for more infor
 
 ## Social Media
 Follow us on Twitter for updates:
+https://www.projecttherion.com/
+https://x.com/ProjectTherion
+https://t.me/ProjectTherion
 ![Twitter Header](TWITTER%20HEADER%20NEWEST%20SOLANA.png)
 
 ---
