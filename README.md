@@ -1,4 +1,4 @@
-# Project Title: Crypto AI Bot
+# Projeect Therion AI
 
 ![Project Logo](5cfdf0.png)
 
